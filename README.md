@@ -2,4 +2,4 @@
 ### Menüyü tek bir sayfa üzerinde hazırladım.Linkleri id ler üzerinden konumlandırdım.
 ### Çalışmada bootstrap  4.6. versiyonu kullanılmıştır.
 ### Grid sisteme göre telefonlarda tek ürün görünecek - orta ve büyük boy cihazlarda 3 ürün yanyana görüntülenecektir.
-![QRkodemenu](readme.gif)
+![QRkodemenu] (readme.gif)
